@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaomniasanct02librgoog_0009.png"; bbox 0 0 2717 5709; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 170 582 2576 1254">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 170 582 2576 1254">
+     <span class='ocr_line' id='line_1_1' title="bbox 170 582 2576 1254; baseline 0 4455"><span class='ocrx_word' id='word_1_1' title='bbox 170 582 2576 1254; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 190 2026 2035 2170">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 190 2022 2035 2170">
+     <span class='ocr_line' id='line_1_2' title="bbox 190 2026 2035 2170; baseline 0.007 -13"><span class='ocrx_word' id='word_1_2' title='bbox 190 2044 194 2157; x_wconf 78' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_3' title='bbox 457 2026 1294 2170; x_wconf 72' lang='lat' dir='ltr'>&#39;OPERA</span> <span class='ocrx_word' id='word_1_4' title='bbox 1407 2070 2035 2170; x_wconf 78' lang='lat' dir='ltr'>OMNlA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 174 2256 2435 2528">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 174 2256 2435 2541">
+     <span class='ocr_line' id='line_1_3' title="bbox 174 2256 2435 2528; baseline 0.001 -49"><span class='ocrx_word' id='word_1_5' title='bbox 174 2256 184 2507; x_wconf 75' lang='grc' dir='ltr'><em>ξ</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 251 2322 598 2528; x_wconf 58' lang='grc' dir='ltr'>ΒΑΝ</span> <span class='ocrx_word' id='word_1_7' title='bbox 610 2322 1535 2486; x_wconf 65' lang='lat' dir='ltr'>Crotum</span> <span class='ocrx_word' id='word_1_8' title='bbox 1587 2322 2435 2486; x_wconf 82' lang='lat' dir='ltr'><strong>PATRUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 954 2666 1771 2734">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 954 2666 1771 2734">
+     <span class='ocr_line' id='line_1_4' title="bbox 954 2666 1771 2734; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 954 2666 1771 2734; x_wconf 54' lang='lat' dir='ltr'>tssTINuRUM.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 586 2942 2079 3014">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 586 2942 2079 3014">
+     <span class='ocr_line' id='line_1_5' title="bbox 586 2942 2079 3014; baseline 0.003 -8"><span class='ocrx_word' id='word_1_10' title='bbox 586 2946 670 3006; x_wconf 59' lang='grc' dir='ltr'>ΡΨ</span> <span class='ocrx_word' id='word_1_11' title='bbox 801 2946 858 3010; x_wconf 74' lang='grc' dir='ltr'><em>Ο</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 974 2946 1038 3010; x_wconf 77' lang='lat' dir='ltr'><strong><em>L</em></strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1154 2945 1771 3014; x_wconf 57' lang='lat' dir='ltr'>UMEN</span> <span class='ocrx_word' id='word_1_14' title='bbox 1919 2942 2079 3013; x_wconf 48' lang='lat' dir='ltr'>IX*</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
